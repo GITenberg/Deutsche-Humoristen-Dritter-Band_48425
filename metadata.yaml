@@ -1,0 +1,32 @@
+_repo: Deutsche-Humoristen-Dritter-Band_48425
+creator:
+  authors:
+  - agent_name: Schmidt, Otto Ernst
+    alias: Ernst, Otto
+    birthdate: 1862
+    deathdate: 1926
+    gutenberg_agent_id: '33129'
+    url: http://www.gutenberg.org/2009/agents/33129
+    wikipedia: http://de.wikipedia.org/wiki/Otto_Ernst
+  - agent_name: Eyth, Max
+    gutenberg_agent_id: '44791'
+    url: http://www.gutenberg.org/2009/agents/44791
+  - agent_name: Böhlau, Helene
+    gutenberg_agent_id: '44154'
+    url: http://www.gutenberg.org/2009/agents/44154
+  - agent_name: Hoffmann, Hans
+    gutenberg_agent_id: '44790'
+    url: http://www.gutenberg.org/2009/agents/44790
+description: ''
+gutenberg_issued: '2015-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48425'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Deutsche Humoristen
+
+  Dritter Band'
+url: http://www.gutenberg.org/ebooks/48425
