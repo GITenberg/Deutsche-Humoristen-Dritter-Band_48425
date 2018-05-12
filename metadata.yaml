@@ -1,4 +1,8 @@
 _repo: Deutsche-Humoristen-Dritter-Band_48425
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48425-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Schmidt, Otto Ernst
@@ -18,6 +22,8 @@ creator:
     gutenberg_agent_id: '44790'
     url: http://www.gutenberg.org/2009/agents/44790
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48425#Deutsche-Humoristen-Dritter-Band
 gutenberg_issued: '2015-03-07'
 gutenberg_type: Text
 identifiers:
